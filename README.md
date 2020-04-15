@@ -8,4 +8,4 @@
   - Secret.py token相关类
   - Department.py 部门管理功能实现类
 ### 部门管理接口简单分析
-![](https://note.youdao.com/yws/api/personal/file/53586FAAB92A47E1BAF882ECF669D1A2?method=download&shareKey=2e1610b5d99b98f14a26cdc1866079d2)
+![](https://s1.ax1x.com/2020/04/15/JC6Dmj.png)
